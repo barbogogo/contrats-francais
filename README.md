@@ -7,7 +7,7 @@ Ce repo est une première release de mes contrats rédigés avec mon avocat.
 Pour l'instant, ce sont des contrats qui fonctionnent plutôt bien avec
 mon client actuel.
 
-N'hésitez pas à me faire des retours (soit pas pull request, soit par DM)
+N'hésitez pas à me faire des retours (soit par pull request, soit par DM)
 
 Il y a une licence libre sur ces contrats.
 Vous pouvez donc les utiliser comme bon vous semble !
@@ -24,7 +24,7 @@ plupart des problèmes basiques d'une prestation de développement web.
 Les CP (conditions particulières) sont la partie variable du contrat.
 
 Ce sont elles qui vont définir plus précisément les quelques points spécifiques
-à un client. Elles sont customisasbles à souhait !
+à un client. Elles sont adaptables à souhait !
 
 ## Warning
 
