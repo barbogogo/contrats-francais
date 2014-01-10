@@ -3,12 +3,12 @@
 ## Choix de la méthode de travail
 
 _NomSociété_ et le Client vont travailler sur des développements itératifs
-(méthode Agile)
+(méthode Agile).
 
 ## Propriété intellectuelle
 
 _NomSociété_ autorise le Client à consentir des sous-licences sur les
-développements spécifiques
+développements spécifiques.
 
 ## Prix - Paiement
 

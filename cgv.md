@@ -362,7 +362,7 @@ Le taux horaire ou journalier est celui convenu dans les Conditions
 particulières.
 
 À défaut de stipulation contraire dans les Conditions particulières, le
-paiement interviendra avant le commencement de chacune des Itérations
+paiement interviendra avant le commencement de chacune des Itérations.
 
 ### 11.2. Rabais – Remise - Ristourne
 
